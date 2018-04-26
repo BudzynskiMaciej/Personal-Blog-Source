@@ -1,0 +1,41 @@
+baseurl = "https://blog.budzynskimaciej.pl"
+title = "Budzyński Maciej - blog"
+description = "Blog programistyczny studenta informatki Macieja Budzyńskiego"
+copyright = "Copyright (c) 2018, wszelkie prawa zastrzeżone."
+canonifyurls = true
+languageCode = "pl-PL"
+paginate = 3
+theme = "hugo-dusk"
+enableEmoji = true
+pygmentsStyle = "monokai"
+
+googleAnalytics = "UA-89868475-2"
+disqusShortname = "budzynskimaciej"
+
+[author]
+  name = "Maciej Budzynski"
+
+SectionPagesMenu = "main"
+
+[[menu.main]]
+  name = "Posty"
+  weight = -120
+  identifier = "post"
+  url = "/post/"
+
+[[menu.main]]
+  name = "Tagi"
+  weight = -110
+  identifier = "tag"
+  url = "/tags/" 
+
+[params.meta]
+  keywords = "blog, tech, IT, programming, budzynski, maciej, budzynskimaciej"
+  description = "Blog programisty"
+
+[params]
+  github = "BudzynskiMaciej"
+  twitter = "BudynLBN"
+  linkedin = "maciej-budzyński-206811127"
+  email = "maciej.budzynski@spoko.pl"
+  facebook = "maciej.budzynski1"
