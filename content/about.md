@@ -5,7 +5,9 @@ menu = "main"
 weight = 100
 +++
 
-Hugo is a static site engine written in Go.
+# Ta strona będzie zawierać informacje o mnie
+
+Ale narazie jest w budowie i zawiera zlepek losowych informacji.
 
 
 It makes use of a variety of open source projects including:

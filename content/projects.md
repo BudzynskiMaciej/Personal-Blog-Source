@@ -10,9 +10,4 @@ weight = 100
 Większość moich publicznych projektów znajduje się na moim koncie na
 [GitHub](https://github.com/BudzynskiMaciej).
 
-### Strona Internetowa na zaliczenie przedmiotu
-
-### [File Downloader](https://github.com/BudzynskiMaciej/File-Downloader)
-
-Program napisany w Java z wykorzystaniem technologii JavaFX, służący do
-pobierania plików z internetu
+### [Strona w Budowie](https://github.com/BudzynskiMaciej)

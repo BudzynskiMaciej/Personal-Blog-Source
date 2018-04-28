@@ -1,6 +1,6 @@
 +++
 categories = ["poradnik", "programming"]
-date = "2017-07-24T15:04:50+02:00"
+date = "2018-04-28T15:04:50+02:00"
 tags = ["golang", "javascript", "java", "c#", "c++", "c", "python", "haskel", "programming"]
 title = "Jaki język programowania wybrać na początek, czyli multi-Hello World"
 

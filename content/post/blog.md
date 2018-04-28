@@ -1,6 +1,6 @@
 +++
 categories = ["poradnik", "opinia"]
-date = "2017-07-07T09:40:20+02:00"
+date = "2018-04-28T16:40:20+02:00"
 tags = ["golang", "hugo", "wordpress", "blog", "story"]
 title = "Blog oparty o generator stron statycznych Hugo"
 
