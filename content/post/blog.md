@@ -12,7 +12,7 @@ opartego o technologię Hugo.
 <!--more-->
 Początki blogowania
 -------------------
-Swoją przygodę rozpocząłem z blogiem stworzonym za pomocą **Wordpress**a. Możliwość konfiguracji, 
+Swoją przygodę rozpocząłem z blogiem stworzonym za pomocą **Wordpress**a. Możliwości konfiguracji, 
 ilość szablonów, dodatków to wszystko przytłaczało. Wordpress był bardzo prostm narzędziem,
 jednak miał też kilka wad, wymagał PHP oraz Bazy Danych, a wraz z rozrostem strony zwiększał się
 jej czas ładowania. W dodatku darmowy hosting nie mógł utrzymać dużego ruchu na stronach.
@@ -35,17 +35,17 @@ dla dzieci trolem imieniem Hugo)![Hugo](https://lh3.googleusercontent.com/TfWnTB
 potrzebujemy to ta związana z **HTML** i **CSS** jeśli chcemy edytować, bądź tworzyć własne szablony oraz
 **Markdown** do pisania naszych postów.
 
-| Zalety        | Wady          |
-|:-------------:|:-------------:|
-| col 3 is      | right-aligned |
-| col 2 is      | centered      |
-| zebra stripes | are neat      |
+| Zalety        					| Wady      							  	|
+|:-----------------------------------------------------:|:---------------------------------------------------------------------:|
+| Proste tworzenie postów z wykorzystaniem **Markdown**	| Wymaga znajomości **GIT**, jeśli zamierzamy korzystać z GitHub Pages 	|
+| Łatwe zarządzanie wyglądem dzięki **HTML** i **CSS**	| Dodawanie specjalnych funkcji może wymagać znajomości **Go**		|
+| Prosta i jednocześnie obszerna dokumentacja		| Na większości hostingów wymagane jest wrzucanie całego folderu Public	|
 
 Rozpoczęcie przygody z Hugo
 ---------------------------
 Aby rozpocząć przygodę z Hugo należy [pobrać jego najnowszą wersję z repozytorium na GitHub](https://github.com/gohugoio/hugo/releases "Hugo Download Page").
 Stamtąd pobieramy najnowszą wersję w zależności od posiadanego systemu operacyjnego:
-*W moim przypadku na dzień pisania newsa jest to wersja hugo_0.24.1_Windows-64bit.zip*
+*W moim przypadku na dzień pisania newsa jest to wersja hugo_0.40.1_Windows-64bit.zip*
 Na Windows wystarczy wypakować plik hugo.exe w dowolnym miejscu: *Polecam C:/Hugo/*
 Po czym musimy dodać katalog zawierający wyżej wymieniony plik do zmiennej środowiskowej **PATH**. Jeśli
 wszystko zrobiliśmy poprawnie powinna zadziałać komenda *hugo help*. w przypadku problemów odsyłam was do

@@ -1,33 +1,33 @@
 +++
 title = "O mnie"
-date = "2017-06-20"
+date = "2018-06-17"
 menu = "main"
 weight = 100
 +++
 
-# Ta strona będzie zawierać informacje o mnie
+# O mnie
 
-Ale narazie jest w budowie i zawiera zlepek losowych informacji.
+Nazywam się Maciej Budzyński, jestem studentem informatyki pierwszego 
+stopnia na trzecim roku. Ukończyłem technikum o kierunku informatycznym,
+posiadam dyplom technika informatyki (klasyfikacje E12, E13, E14).Swoją 
+przygodę z programowaniem zaczełem w 4 klasie technikum informatycznego.
+Na początku miałem styczność z C++, który był też obecny na pierwszych 
+latach moich studiów. Oprócz tego korzystałem również z Javy oraz frameworka
+Spring(Boot,MVC,Security). Otarłem sie również o GoLang (czego owocem 
+jest ten blog oparty o Hugo, napędzanym właśnie przez Go). Obecnie uczę
+się Pythona.
 
+Posiadam konto na następujących portalach:
 
-It makes use of a variety of open source projects including:
+* [GitHub](https://github.com/BudzynskiMaciej)
+* [BitBucket](https://bitbucket.org/BudzynskiMaciej/)
+* [GitLab](https://gitlab.com/BudzynskiMaciej)
+* [Facebook](https://www.facebook.com/maciej.budzynski1)
+* [LinkedIn](https://www.linkedin.com/in/maciej-budzyński-206811127/)
+* [Twitter](https://twitter.com/BudynLBN)
+* [StackOverflow](https://stackoverflow.com/users/6785124/maciej-budzyński)
 
-* [Cobra](https://github.com/spf13/cobra)
-* [Viper](https://github.com/spf13/viper)
-* [J Walter Weatherman](https://github.com/spf13/jWalterWeatherman)
-* [Cast](https://github.com/spf13/cast)
+## CV
 
-Learn more and contribute on [GitHub](https://github.com/spf13).
-
-## Setup
-
-Some fun facts about [Hugo](http://gohugo.io/):
-
-* Built in [Go](http://golang.org/)
-* Loosely inspired by [Jekyll](http://jekyllrb.com/)
-* Primarily developed by [spf13](http://spf13.com/) on the train while commuting to and from Manhattan.
-* Coded in [Vim](http://vim.org) using [spf13-vim](http://vim.spf13.com/)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/spf13/hugo/issues/new) or [ask me on Twitter](https://twitter.com/spf13).
-
-Thanks for reading!
+* [W języku angielskim](https://blog.budzynskimaciej.pl/pdf/ENGMaciejBudzynskiCV.pdf)
+* [W języku polskim](https://blog.budzynskimaciej.pl/pdf/MaciejBudzynskiCV.pdf)
