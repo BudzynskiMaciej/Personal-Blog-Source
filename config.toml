@@ -1,7 +1,7 @@
 baseurl = "https://blog.budzynskimaciej.pl"
 title = "Budzyński Maciej - blog"
 description = "Blog programistyczny studenta informatki Macieja Budzyńskiego"
-copyright = "Copyright (c) 2018, wszelkie prawa zastrzeżone."
+copyright = "Copyright (c) 2019, wszelkie prawa zastrzeżone."
 canonifyurls = true
 languageCode = "pl-PL"
 paginate = 3
@@ -30,12 +30,12 @@ SectionPagesMenu = "main"
   url = "/tags/" 
 
 [params.meta]
-  keywords = "blog, tech, IT, programming, budzynski, maciej, budzynskimaciej"
+  keywords = "blog, tech, IT, programming, budzynski, maciej, budzynskimaciej, python, golang, hugo"
   description = "Blog programisty"
 
 [params]
   github = "BudzynskiMaciej"
-  twitter = "BudynLBN"
+  twitter = "BudzynskiMaciek"
   linkedin = "maciej-budzyński-206811127"
-  email = "maciej.budzynski@spoko.pl"
+  email = "kontakt@budzynskimaciej.pl"
   facebook = "maciej.budzynski1"

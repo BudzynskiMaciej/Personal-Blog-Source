@@ -8,8 +8,8 @@ weight = 100
 # O mnie
 
 Nazywam się Maciej Budzyński, jestem studentem informatyki pierwszego 
-stopnia na trzecim roku. Ukończyłem technikum o kierunku informatycznym,
-posiadam dyplom technika informatyki (klasyfikacje E12, E13, E14).Swoją 
+stopnia na trzecim roku. Ukończyłem technikum na kierunku informatycznym,
+posiadam dyplom technika informatyki (klasyfikacje E12, E13, E14). Swoją 
 przygodę z programowaniem zaczełem w 4 klasie technikum informatycznego.
 Na początku miałem styczność z C++, który był też obecny na pierwszych 
 latach moich studiów. Oprócz tego korzystałem również z Javy oraz frameworka
@@ -24,7 +24,7 @@ Posiadam konto na następujących portalach:
 * [GitLab](https://gitlab.com/BudzynskiMaciej)
 * [Facebook](https://www.facebook.com/maciej.budzynski1)
 * [LinkedIn](https://www.linkedin.com/in/maciej-budzyński-206811127/)
-* [Twitter](https://twitter.com/BudynLBN)
+* [Twitter](https://twitter.com/BudzynskiMaciek)
 * [StackOverflow](https://stackoverflow.com/users/6785124/maciej-budzyński)
 
 ## CV
