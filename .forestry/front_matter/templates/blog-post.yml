@@ -2,15 +2,15 @@
 label: Blog post
 hide_body: false
 fields:
-- type: list
-  name: categories
-  label: categories
+- type: text
+  name: title
+  label: title
 - type: datetime
   name: date
   label: date
 - type: list
   name: tags
   label: tags
-- type: text
-  name: title
-  label: title
+- type: list
+  name: categories
+  label: categories
