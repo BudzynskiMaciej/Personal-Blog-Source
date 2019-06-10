@@ -1,10 +1,11 @@
 +++
 categories = ["programming"]
-date = "2019-06-10T00:00:00+02:00"
-tags = ["foresty.io", "hugo"]
+date = "2019-06-10T10:40:00+02:00"
+tags = ["foresty", "hugo"]
 title = "Forestry i Hugo"
 
 +++
+
 Dawno tu nie pisałem, jednak warto trochę odświeżyć tego bloga. Dzisiejszy wpis będzie krótki, a we wpisie zamierzam przedstawić intergrację Hugo z platformą Forestry.io
 
 <!--more-->
