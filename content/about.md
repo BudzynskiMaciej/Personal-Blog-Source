@@ -7,15 +7,19 @@ weight = 100
 
 # O mnie
 
-Nazywam się Maciej Budzyński, jestem studentem informatyki pierwszego 
-stopnia na trzecim roku. Ukończyłem technikum na kierunku informatycznym,
-posiadam dyplom technika informatyki (klasyfikacje E12, E13, E14). Swoją 
-przygodę z programowaniem zaczełem w 4 klasie technikum informatycznego.
+Nazywam się Maciej Budzyński, jestem studentem informatyki drugiego 
+stopnia na pierwszym roku. Ukończyłem studia pierwszego stopnia z 
+tytułem licencjata oraz technikum na kierunku informatycznym, posiadam 
+dyplom technika informatyki (klasyfikacje E12, E13, E14). Obecnie pracuję 
+dla Centralnego Ośrodka Informatyki jako Młodszy programista Java, 
+rozwijając system CEPiK odpowiedzialny za międzyinnymi przechowywanie 
+danych aut oraz rejestrację samochodów w polskich urzędach. Swoją przygodę 
+z programowaniem zaczełem w 4 klasie technikum informatycznego.
 Na początku miałem styczność z C++, który był też obecny na pierwszych 
-latach moich studiów. Oprócz tego korzystałem również z Javy oraz frameworka
-Spring(Boot,MVC,Security). Otarłem sie również o GoLang (czego owocem 
-jest ten blog oparty o Hugo, napędzanym właśnie przez Go). Obecnie uczę
-się Pythona.
+latach moich studiów. Oprócz tego korzystałem również z Java oraz frameworka
+Spring (Boot,MVC,Security) jak i Pythona oraz frameworka Django. Otarłem
+ się również o GoLang (czego owocem jest ten blog oparty o Hugo, napędzanym 
+ właśnie przez Go). 
 
 Posiadam konto na następujących portalach:
 
