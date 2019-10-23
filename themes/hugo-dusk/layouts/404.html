@@ -5,14 +5,13 @@
 </div>
 
 <div class="sitemap" >
-  <h2>Posty</h2>
   <ul>
-  {{ range (where .Site.Pages.ByTitle ".Type" "post") }}
+  {{ range site.RegularPages.ByLastmod.Reverse }}
       <li><article itemscope itemtype="http://schema.org/Blog">
           <a href="{{ .Permalink }}">{{ .Title }}</a>
       </article></li>
   {{ end }}
   </ul>
 
-<div>
+</div> <!-- sitemap -->
 {{ partial "footer.html" . }}

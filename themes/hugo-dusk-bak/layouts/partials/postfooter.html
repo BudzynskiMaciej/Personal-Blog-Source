@@ -1,0 +1,12 @@
+<footer class="post-footer">
+
+  <div class="post-footer-data">
+    {{ partial "tags.html" . }}
+    <div class="date"> {{ .Date.Day }} {{ index $.Site.Data.miesiace (printf "%d" .Date.Month) }} {{ .Date.Year }} </div>
+  </div>
+
+</footer>
+
+{{ if eq .Type "post" }}
+  {{ partial "disqus.html" . }}
+{{ end }}

@@ -1,0 +1,19 @@
+<article class="post-preview">
+
+  <header>
+    <h2 class="title"> <a href='{{ .Permalink }}'> {{ .Title }}</a> </h2>
+    <div class="meta">
+      {{ .Date.Day }} {{ index $.Site.Data.miesiace (printf "%d" .Date.Month) }} {{ .Date.Year }} - Minut czytania: {{ .ReadingTime }} 
+    </div>
+    {{ partial "tags.html" . }}
+  </header>
+
+  <div class="summary"> {{ .Summary }} </div>
+
+  <footer>
+  <div class="rmore">
+    <a href='{{ .Permalink }}'><nobr>Czytaj więcej ...</nobr></a>
+  </div>
+  </footer>
+
+</article>
