@@ -1,6 +1,6 @@
 +++
 title = "Projekty"
-date = "2017-07-24"
+date = "2020-07-01"
 menu = "main"
 weight = 100
 +++

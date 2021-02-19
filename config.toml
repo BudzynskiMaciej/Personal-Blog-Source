@@ -1,7 +1,7 @@
 baseurl = "https://blog.budzynskimaciej.pl"
 title = "Budzyński Maciej - blog"
 description = "Blog programistyczny studenta informatki Macieja Budzyńskiego"
-copyright = "Copyright (c) 2019, wszelkie prawa zastrzeżone."
+copyright = "Copyright (c) 2021, wszelkie prawa zastrzeżone."
 canonifyurls = true
 languageCode = "pl-PL"
 paginate = 3
@@ -31,7 +31,7 @@ SectionPagesMenu = "main"
 
 [params.meta]
   keywords = "blog, tech, IT, programming, budzynski, maciej, budzynskimaciej, python, golang, hugo"
-  description = "Blog programisty"
+  description = "Blog programisty Maciej Budzyński"
 
 [params]
   github = "BudzynskiMaciej"
