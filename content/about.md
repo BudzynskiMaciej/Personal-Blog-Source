@@ -34,7 +34,10 @@ Posiadam konto na następujących portalach:
 * [Twitter](https://twitter.com/BudzynskiMaciek)
 * [StackOverflow](https://stackoverflow.com/users/6785124/maciej-budzyński)
 
+## Kontakt
+
+* [kontakt@budzynskimaciej.pl](mailto:kontakt@budzynskimaciej.pl)
+
 ## CV
 
-* [W języku angielskim](https://blog.budzynskimaciej.pl/pdf/ENGMaciejBudzynskiCV.pdf)
-* [W języku polskim](https://blog.budzynskimaciej.pl/pdf/MaciejBudzynskiCV.pdf)
+W celu otrzymania mojego CV proszę o kontakt mailowy na adres [kontakt@budzynskimaciej.pl](mailto:kontakt@budzynskimaciej.pl).
