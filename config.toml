@@ -9,7 +9,7 @@ theme = "hugo-dusk"
 enableEmoji = true
 pygmentsStyle = "monokai"
 
-googleAnalytics = "UA-89868475-2"
+googleAnalytics = "G-FTCMYPN4XN"
 disqusShortname = "budzynskimaciej"
 
 [author]
@@ -32,6 +32,7 @@ SectionPagesMenu = "main"
 [params.meta]
   keywords = "blog, tech, IT, programming, budzynski, maciej, budzynskimaciej, python, java, golang, hugo, software, engineer"
   description = "Blog programisty Maciej Budzyński"
+  adsense = "ca-pub-1510977259596533"
 
 [params]
   github = "BudzynskiMaciej"
