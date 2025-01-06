@@ -1,10 +1,15 @@
-+++
-categories = ["poradnik", "programming"]
-date = "2018-04-28T15:04:50+02:00"
-tags = ["golang", "javascript", "java", "c#", "c++", "c", "python", "ruby", "php", "haskel", "programming"]
-title = "Jaki język programowania wybrać na początek, czyli multi-Hello World"
-
-+++
+---
+author: "Maciej Budzyński"
+title: "Jaki język programowania wybrać na początek, czyli multi-Hello World"
+date: "2018-04-28T15:04:50+02:00"
+categories: ["poradnik", "programming"]
+tags: ["golang", "javascript", "java", "c#", "c++", "c", "python", "ruby", "php", "haskel", "programming"]
+#cover:
+#  image: images/msg.png
+#  caption: "Generated using [OG Image Playground by Vercel](https://og-playground.vercel.app/)"
+#ShowToc: true
+#TocOpen: false
+---
 
 Zastanawiasz sie nad wyborem języka programowania? Nie masz pojęcia który z nich wybrać?
 W takim razie ten post jest dla Ciebie. Przygotowałem w nim krótkie opisy różnych języków

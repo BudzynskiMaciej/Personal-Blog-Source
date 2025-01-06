@@ -1,10 +1,11 @@
-+++
-categories = ["poradnik", "opinia"]
-date = "2018-04-28T16:40:20+02:00"
-tags = ["golang", "hugo", "wordpress", "blog", "story"]
-title = "Blog oparty o generator stron statycznych Hugo"
+---
+author: "Maciej Budzyński"
+title: "Blog oparty o generator stron statycznych Hugo"
+date: "2018-04-28T16:40:20+02:00"
+categories: ["poradnik", "opinia"]
+tags: ["golang", "hugo", "wordpress", "blog", "story"]
 
-+++
+---
 
 W aktualnych czasach każdy posiada swoją stronę w internecie. Ja postanowiłem założyć bloga 
 opartego o technologię Hugo.

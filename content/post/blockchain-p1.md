@@ -1,10 +1,11 @@
-+++
-categories = ["programming"]
-date = "2019-09-30T18:00:00+02:00"
-tags = ["programming", "blockchain"]
-title = "Czym jest Blockchain?"
+---
+author: "Maciej Budzyński"
+title: "Czym jest Blockchain?"
+date: "2019-09-30T18:00:00+02:00"
+categories: ["programming"]
+tags: ["programming", "blockchain"]
 
-+++
+---
 
 Blockchain (po polsku łańcuch bloków) jest ostatnio popularnym słowem w odmętach internetu. 
 W tym artykule postaram się zdemaskować czym jest sławny Blockchain oraz do czego może

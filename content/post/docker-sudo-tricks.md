@@ -1,10 +1,11 @@
-+++
-categories = ["programming"]
-date = "2021-07-24T20:00:00+02:00"
-tags = ["programming", "docker", "linux"]
-title = "Jak uzyskać dostęp do admina na Linuxie wykorzystując Dockera?"
+---
+author: "Maciej Budzyński"
+title: "Jak uzyskać dostęp do admina na Linuxie wykorzystując Dockera?"
+date: "2021-07-24T20:00:00+02:00"
+categories: ["programming"]
+tags: ["programming", "docker", "linux"]
 
-+++
+---
 
 Nie posiadasz uprawnień administratora na lokalnym sprzęcie? Posiadasz Linuxa oraz Dockera? 
 Jeżeli odpowiedź na powyższe pytania brzmi tak to w tym artykule pokażę Ci jak wykorzystać 

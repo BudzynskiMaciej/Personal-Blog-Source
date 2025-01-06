@@ -1,10 +1,11 @@
-+++
-categories = ["programming"]
-date = "2018-09-17T20:00:00+02:00"
-tags = ["python", "programming"]
-title = "Upiększanie ciągów znaków, czyli jak formatować stringi w Pythonie"
+---
+author: "Maciej Budzyński"
+title: "Upiększanie ciągów znaków, czyli jak formatować stringi w Pythonie"
+date: "2018-09-17T20:00:00+02:00"
+categories: ["programming"]
+tags: ["python", "programming"]
 
-+++
+---
 W pythonie istniały dwie metody formatowania stringów. Sytuacja ta trwała do czasu pojawienia się
 Python 3.6, wraz z nadejściem f-stringów. Dziś postaram się omówić wszystkie metody formatowania,
 oraz podam przykład ich stosowania.

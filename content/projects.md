@@ -1,11 +1,9 @@
 +++
 title = "Projekty"
 date = "2020-07-01"
-menu = "main"
-weight = 100
 +++
 
-## Moje Projekty
+## Projekty
 
 Większość moich publicznych projektów znajduje się na moim koncie na
 [GitHub](https://github.com/BudzynskiMaciej).

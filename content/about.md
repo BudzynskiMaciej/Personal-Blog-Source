@@ -1,8 +1,6 @@
 +++
 title = "O mnie"
 date = "2022-12-24"
-menu = "main"
-weight = 100
 +++
 
 # O mnie
